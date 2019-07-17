@@ -1,8 +1,9 @@
-·¨Èöµ©·¢Éäµã
+æ³•æ’’æ—¦å‘å°„ç‚¹
 git remote add origin git@10.24.12.27:yxy/yanxy.git
 git remote add origin git@10.24.12.27:zjteacher/lesson1.git
-sdaf °¢µÀ·ò
-adfawµÄfasfaÊÇ·ñ
-°¢Ë¹¶Ùfasd fsaµØ·½
-°¢Ë¹¶Ù
+sdaf é˜¿é“å¤«
+adfawçš„fasfaæ˜¯å¦
+é˜¿æ–¯é¡¿fasd fsaåœ°æ–¹
+é˜¿æ–¯é¡¿
 
+æ¨¡æ‹Ÿåˆ«äººæäº¤
